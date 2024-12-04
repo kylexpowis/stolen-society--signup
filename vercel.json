@@ -6,7 +6,7 @@
     }
   ],
   "functions": {
-    "api/addSubscriber.js": {
+    "src/EmailForm.jsx": {
       "memory": 128,
       "maxDuration": 10
     }
